@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AbsoluteLayout xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:FloatingMenu.Controls;assembly=FloatingMenu"
+             x:Class="FloatingMenu.Controls.FloatingMenu"
+             Rotation="180"
+             Margin="15, 10"
+             >
+
+    <controls:FloatingButton x:Name="FloatingButton" Rotation="180" />
+  
+</AbsoluteLayout>

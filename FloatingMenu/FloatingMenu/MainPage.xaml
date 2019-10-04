@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:FloatingMenu.Controls;assembly=FloatingMenu"
+             x:Class="FloatingMenu.MainPage">
+
+    <controls:FloatingMenu x:Name="FloatingMenu"
+                           Margin="15, 10"
+                           MainButtonBackGroundColor="Magenta"
+                           YAxis="70"
+                           MenuButtonHeight="80"
+                           MenuButtonWidth="80"
+                           CornerRadius="40"
+                           VerticalOptions="EndAndExpand"
+                           HorizontalOptions="EndAndExpand"
+                           AnimationTime="300">
+        <controls:FloatingButton x:Name="A" MenuButtonBackgroundColor="Aqua"
+                                 BindingContext="{x:Reference FloatingMenu}" CornerRadius="{Binding CornerRadius}" />
+        <controls:FloatingButton x:Name="B" MenuButtonBackgroundColor="Aquamarine"
+                                 BindingContext="{x:Reference FloatingMenu}" CornerRadius="{Binding CornerRadius}" />
+        <controls:FloatingButton x:Name="C" MenuButtonBackgroundColor="Cyan"
+                                 BindingContext="{x:Reference FloatingMenu}" CornerRadius="{Binding CornerRadius}" />
+    </controls:FloatingMenu>
+
+</ContentPage>

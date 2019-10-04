@@ -147,6 +147,7 @@ namespace FloatingMenu.Controls
             foreach (var (child, index) in Children.Select((c,i)=>(c,i)))
             {
                 child.Scale = 0.7;
+                child.Rotation = -Rotation;
                 SetLayoutBounds(child, new Rectangle(0, YAxis * index, MenuButtonWidth, MenuButtonHeight));
             }
 
@@ -158,12 +159,9 @@ namespace FloatingMenu.Controls
         {
             int expandedId = _isExpand ? 1 : 0;
 
-            foreach (var (child, index) in Children.Select((c,i)=>(c,i)).Skip(1 - expandedId).Take(Children.Count - expandedId))
-            {
-                _ = child.TranslateTo(0, -YAxis * (index + expandedId), (uint)time);
-            }
-            
-            await Task.Delay(time);
+            var tasks = Children.Select((c, i) => (c, i)).Skip(1 - expandedId).Take(Children.Count - expandedId)
+                .Select(tuple => tuple.c.TranslateTo(0, -YAxis * (tuple.i + expandedId), (uint)time)).ToList();
+            await Task.WhenAll(tasks);
 
             foreach (var child in Children.Skip(1 - expandedId).Take(Children.Count - expandedId))
             {

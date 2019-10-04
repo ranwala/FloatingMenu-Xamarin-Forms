@@ -565,11 +565,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Xamarin_Forms\\MyWorkSpace\\FloatingMenu\\FloatingMenu\\FloatingMenu\\FloatingMenu.csproj",
+      "projectUniqueName": "C:\\Xamarin_Forms\\MyWorkSpace\\New folder\\FloatingMenu-Xamarin-Forms\\FloatingMenu\\FloatingMenu\\FloatingMenu.csproj",
       "projectName": "FloatingMenu",
-      "projectPath": "C:\\Xamarin_Forms\\MyWorkSpace\\FloatingMenu\\FloatingMenu\\FloatingMenu\\FloatingMenu.csproj",
+      "projectPath": "C:\\Xamarin_Forms\\MyWorkSpace\\New folder\\FloatingMenu-Xamarin-Forms\\FloatingMenu\\FloatingMenu\\FloatingMenu.csproj",
       "packagesPath": "C:\\Users\\chandu\\.nuget\\packages\\",
-      "outputPath": "C:\\Xamarin_Forms\\MyWorkSpace\\FloatingMenu\\FloatingMenu\\FloatingMenu\\obj\\",
+      "outputPath": "C:\\Xamarin_Forms\\MyWorkSpace\\New folder\\FloatingMenu-Xamarin-Forms\\FloatingMenu\\FloatingMenu\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

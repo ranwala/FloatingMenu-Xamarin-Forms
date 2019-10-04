@@ -1014,11 +1014,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Xamarin_Forms\\MyWorkSpace\\FloatingMenu\\FloatingMenu\\FloatingMenu.iOS\\FloatingMenu.iOS.csproj",
+      "projectUniqueName": "C:\\Xamarin_Forms\\MyWorkSpace\\New folder\\FloatingMenu-Xamarin-Forms\\FloatingMenu\\FloatingMenu.iOS\\FloatingMenu.iOS.csproj",
       "projectName": "FloatingMenu.iOS",
-      "projectPath": "C:\\Xamarin_Forms\\MyWorkSpace\\FloatingMenu\\FloatingMenu\\FloatingMenu.iOS\\FloatingMenu.iOS.csproj",
+      "projectPath": "C:\\Xamarin_Forms\\MyWorkSpace\\New folder\\FloatingMenu-Xamarin-Forms\\FloatingMenu\\FloatingMenu.iOS\\FloatingMenu.iOS.csproj",
       "packagesPath": "C:\\Users\\chandu\\.nuget\\packages\\",
-      "outputPath": "C:\\Xamarin_Forms\\MyWorkSpace\\FloatingMenu\\FloatingMenu\\FloatingMenu.iOS\\obj\\",
+      "outputPath": "C:\\Xamarin_Forms\\MyWorkSpace\\New folder\\FloatingMenu-Xamarin-Forms\\FloatingMenu\\FloatingMenu.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1040,8 +1040,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Xamarin_Forms\\MyWorkSpace\\FloatingMenu\\FloatingMenu\\FloatingMenu\\FloatingMenu.csproj": {
-              "projectPath": "C:\\Xamarin_Forms\\MyWorkSpace\\FloatingMenu\\FloatingMenu\\FloatingMenu\\FloatingMenu.csproj"
+            "C:\\Xamarin_Forms\\MyWorkSpace\\New folder\\FloatingMenu-Xamarin-Forms\\FloatingMenu\\FloatingMenu\\FloatingMenu.csproj": {
+              "projectPath": "C:\\Xamarin_Forms\\MyWorkSpace\\New folder\\FloatingMenu-Xamarin-Forms\\FloatingMenu\\FloatingMenu\\FloatingMenu.csproj"
             }
           }
         }

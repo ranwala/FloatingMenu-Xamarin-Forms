@@ -12,3 +12,17 @@ C:\Xamarin_Forms\MyWorkSpace\FloatingMenu\FloatingMenu\FloatingMenu\obj\Debug\ne
 C:\Xamarin_Forms\MyWorkSpace\FloatingMenu\FloatingMenu\FloatingMenu\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Xamarin_Forms\MyWorkSpace\FloatingMenu\FloatingMenu\FloatingMenu\obj\Debug\netstandard2.0\FloatingMenu.dll
 C:\Xamarin_Forms\MyWorkSpace\FloatingMenu\FloatingMenu\FloatingMenu\obj\Debug\netstandard2.0\FloatingMenu.pdb
+C:\Xamarin_Forms\MyWorkSpace\New folder\FloatingMenu-Xamarin-Forms\FloatingMenu\FloatingMenu\bin\Debug\netstandard2.0\FloatingMenu.deps.json
+C:\Xamarin_Forms\MyWorkSpace\New folder\FloatingMenu-Xamarin-Forms\FloatingMenu\FloatingMenu\bin\Debug\netstandard2.0\FloatingMenu.dll
+C:\Xamarin_Forms\MyWorkSpace\New folder\FloatingMenu-Xamarin-Forms\FloatingMenu\FloatingMenu\bin\Debug\netstandard2.0\FloatingMenu.pdb
+C:\Xamarin_Forms\MyWorkSpace\New folder\FloatingMenu-Xamarin-Forms\FloatingMenu\FloatingMenu\obj\Debug\netstandard2.0\FloatingMenu.csprojAssemblyReference.cache
+C:\Xamarin_Forms\MyWorkSpace\New folder\FloatingMenu-Xamarin-Forms\FloatingMenu\FloatingMenu\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin_Forms\MyWorkSpace\New folder\FloatingMenu-Xamarin-Forms\FloatingMenu\FloatingMenu\obj\Debug\netstandard2.0\Controls\FloatingButton.xaml.g.cs
+C:\Xamarin_Forms\MyWorkSpace\New folder\FloatingMenu-Xamarin-Forms\FloatingMenu\FloatingMenu\obj\Debug\netstandard2.0\Controls\FloatingMenu.xaml.g.cs
+C:\Xamarin_Forms\MyWorkSpace\New folder\FloatingMenu-Xamarin-Forms\FloatingMenu\FloatingMenu\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Xamarin_Forms\MyWorkSpace\New folder\FloatingMenu-Xamarin-Forms\FloatingMenu\FloatingMenu\obj\Debug\netstandard2.0\FloatingMenu.csproj.CoreCompileInputs.cache
+C:\Xamarin_Forms\MyWorkSpace\New folder\FloatingMenu-Xamarin-Forms\FloatingMenu\FloatingMenu\obj\Debug\netstandard2.0\FloatingMenu.AssemblyInfoInputs.cache
+C:\Xamarin_Forms\MyWorkSpace\New folder\FloatingMenu-Xamarin-Forms\FloatingMenu\FloatingMenu\obj\Debug\netstandard2.0\FloatingMenu.AssemblyInfo.cs
+C:\Xamarin_Forms\MyWorkSpace\New folder\FloatingMenu-Xamarin-Forms\FloatingMenu\FloatingMenu\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin_Forms\MyWorkSpace\New folder\FloatingMenu-Xamarin-Forms\FloatingMenu\FloatingMenu\obj\Debug\netstandard2.0\FloatingMenu.dll
+C:\Xamarin_Forms\MyWorkSpace\New folder\FloatingMenu-Xamarin-Forms\FloatingMenu\FloatingMenu\obj\Debug\netstandard2.0\FloatingMenu.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Xamarin_Forms\\MyWorkSpace\\FloatingMenu\\FloatingMenu\\FloatingMenu.Android\\FloatingMenu.Android.csproj": {}
+    "C:\\Xamarin_Forms\\MyWorkSpace\\New folder\\FloatingMenu-Xamarin-Forms\\FloatingMenu\\FloatingMenu.Android\\FloatingMenu.Android.csproj": {}
   },
   "projects": {
-    "C:\\Xamarin_Forms\\MyWorkSpace\\FloatingMenu\\FloatingMenu\\FloatingMenu.Android\\FloatingMenu.Android.csproj": {
+    "C:\\Xamarin_Forms\\MyWorkSpace\\New folder\\FloatingMenu-Xamarin-Forms\\FloatingMenu\\FloatingMenu.Android\\FloatingMenu.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Xamarin_Forms\\MyWorkSpace\\FloatingMenu\\FloatingMenu\\FloatingMenu.Android\\FloatingMenu.Android.csproj",
+        "projectUniqueName": "C:\\Xamarin_Forms\\MyWorkSpace\\New folder\\FloatingMenu-Xamarin-Forms\\FloatingMenu\\FloatingMenu.Android\\FloatingMenu.Android.csproj",
         "projectName": "FloatingMenu.Android",
-        "projectPath": "C:\\Xamarin_Forms\\MyWorkSpace\\FloatingMenu\\FloatingMenu\\FloatingMenu.Android\\FloatingMenu.Android.csproj",
+        "projectPath": "C:\\Xamarin_Forms\\MyWorkSpace\\New folder\\FloatingMenu-Xamarin-Forms\\FloatingMenu\\FloatingMenu.Android\\FloatingMenu.Android.csproj",
         "packagesPath": "C:\\Users\\chandu\\.nuget\\packages\\",
-        "outputPath": "C:\\Xamarin_Forms\\MyWorkSpace\\FloatingMenu\\FloatingMenu\\FloatingMenu.Android\\obj\\",
+        "outputPath": "C:\\Xamarin_Forms\\MyWorkSpace\\New folder\\FloatingMenu-Xamarin-Forms\\FloatingMenu\\FloatingMenu.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -33,8 +33,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Xamarin_Forms\\MyWorkSpace\\FloatingMenu\\FloatingMenu\\FloatingMenu\\FloatingMenu.csproj": {
-                "projectPath": "C:\\Xamarin_Forms\\MyWorkSpace\\FloatingMenu\\FloatingMenu\\FloatingMenu\\FloatingMenu.csproj"
+              "C:\\Xamarin_Forms\\MyWorkSpace\\New folder\\FloatingMenu-Xamarin-Forms\\FloatingMenu\\FloatingMenu\\FloatingMenu.csproj": {
+                "projectPath": "C:\\Xamarin_Forms\\MyWorkSpace\\New folder\\FloatingMenu-Xamarin-Forms\\FloatingMenu\\FloatingMenu\\FloatingMenu.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "C:\\Xamarin_Forms\\MyWorkSpace\\FloatingMenu\\FloatingMenu\\FloatingMenu\\FloatingMenu.csproj": {
+    "C:\\Xamarin_Forms\\MyWorkSpace\\New folder\\FloatingMenu-Xamarin-Forms\\FloatingMenu\\FloatingMenu\\FloatingMenu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Xamarin_Forms\\MyWorkSpace\\FloatingMenu\\FloatingMenu\\FloatingMenu\\FloatingMenu.csproj",
+        "projectUniqueName": "C:\\Xamarin_Forms\\MyWorkSpace\\New folder\\FloatingMenu-Xamarin-Forms\\FloatingMenu\\FloatingMenu\\FloatingMenu.csproj",
         "projectName": "FloatingMenu",
-        "projectPath": "C:\\Xamarin_Forms\\MyWorkSpace\\FloatingMenu\\FloatingMenu\\FloatingMenu\\FloatingMenu.csproj",
+        "projectPath": "C:\\Xamarin_Forms\\MyWorkSpace\\New folder\\FloatingMenu-Xamarin-Forms\\FloatingMenu\\FloatingMenu\\FloatingMenu.csproj",
         "packagesPath": "C:\\Users\\chandu\\.nuget\\packages\\",
-        "outputPath": "C:\\Xamarin_Forms\\MyWorkSpace\\FloatingMenu\\FloatingMenu\\FloatingMenu\\obj\\",
+        "outputPath": "C:\\Xamarin_Forms\\MyWorkSpace\\New folder\\FloatingMenu-Xamarin-Forms\\FloatingMenu\\FloatingMenu\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
